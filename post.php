@@ -1,6 +1,5 @@
-//code by mrsploit
-//mrlocation v2
-//t.me/ZoneH
+
+//t.me/HACKGM
 <?php
 $json = (file_get_contents('php://input'));
 $dejson = json_decode($json, true);
