@@ -1,7 +1,5 @@
 #/usr/bin/env python3
-# code by mrsploit
-# mrlocation v2
-# t.me/ZoneH
+# t.me/hackgm
 import telebot, sys
 
 try:
